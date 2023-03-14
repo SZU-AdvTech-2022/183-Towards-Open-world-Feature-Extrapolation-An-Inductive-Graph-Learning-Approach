@@ -1,0 +1,8 @@
+@article{REPO-184,
+    author = "Wu, Qitian and Yang, Chenxiao and Yan, Junchi",
+    journal = "Advances in Neural Information Processing Systems",
+    pages = "19435--19447",
+    title = "{Towards Open-World Feature Extrapolation: An Inductive Graph Learning Approach}",
+    volume = "34",
+    year = "2021"
+}
